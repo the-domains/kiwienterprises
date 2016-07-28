@@ -1,29 +1,41 @@
-name: Kiwi Enterprises
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.83348
 title: Kiwi Enterprises
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.7680851
+favicon: null
+name: Kiwi Enterprises
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.125
+  saturation: 0.4375
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.125
   lightness: 0.3125
-  saturation: 0.4375
   rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.83348
