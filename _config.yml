@@ -1,20 +1,30 @@
-title: Kiwi Enterprises
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.7680851
-favicon: null
-name: Kiwi Enterprises
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.83348
+color:
+  brandStrength: 0.125
+  saturation: 0.4375
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  lightness: 0.3125
+  rhythmicContrast: 1
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7680851
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Kiwi Enterprises
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
 collections:
   - index:
       navigable: true
@@ -27,15 +37,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.125
-  saturation: 0.4375
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  lightness: 0.3125
-  rhythmicContrast: 1
-typography_spectrum: 0.83348
+title: Kiwi Enterprises
+description: uality. Change. Contribution.
+purpose: []
