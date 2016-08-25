@@ -1,30 +1,21 @@
-typography_spectrum: 0.783385026967153
-color:
-  brandStrength: 0.376381604000926
-  saturation: 0.02078394265845418
-  brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
-  lightness: 0.22595556010492146
-  rhythmicContrast: 0.7701168833300471
+description: Quality. Change. Contribution.
+title: Kiwi Enterprises
+cta:
+  domain: null
+  version: null
+  bucket: null
+layout_spectrum: 1
+favicon: null
+name: Kiwi Enterprises
+purpose: []
+analytics:
+  facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.7188520734198391
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Kiwi Enterprises
-cta:
-  version: null
-  bucket: null
-  domain: null
-favicon: null
 collections:
   - index:
       navigable: true
@@ -37,6 +28,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Kiwi Enterprises
-description: Quality. Change. Contribution.
-purpose: []
+color:
+  brandStrength: 0.376381604000926
+  saturation: 0.02078394265845418
+  brandColors:
+    - '#85DB18'
+    - '#CDE855'
+    - '#F5F6D4'
+    - '#A7C520'
+    - '#493F0B'
+  lightness: 0.2259555601049215
+  rhythmicContrast: 0.7701168833300471
+typography_spectrum: 0.783385026967153
